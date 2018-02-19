@@ -1,0 +1,9 @@
+{
+	"name":"pyindustry_burner_fix",
+	"author":"magu5026",
+	"version":"1.0.5",
+	"title":"Pyanodons Industry Burner Fix",
+	"description":"Adds void recipe for the pyanodons industry burner.",
+	"factorio_version":"0.16",
+	"dependencies": ["base >= 0.16.8","pyindustry"]
+}
